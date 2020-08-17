@@ -1,6 +1,6 @@
 # Netlify redirects
 
-https://wonderful-saha-4a9025.netlify.com/* https://dropdown.chessiah.xyz/:splat 301!
-http://wonderful-saha-4a9025.netlify.com/* https://dropdown.chessiah.xyz/:splat 301!
+https://dropdown-menu-chessiah.netlify.app/* https://dropdown-menu.chessiah.com/:splat 301!
+http://dropdown-menu-chessiah.netlify.app/* https://dropdown-menu.chessiah.com/:splat 301!
 
-http://dropdown.chessiah.xyz/* https://dropdown.chessiah.xyz/:splat 301!
+http://dropdown-menu.chessiah.com/* https://dropdown-menu.chessiah.com/:splat 301!

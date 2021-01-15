@@ -1,6 +1,0 @@
-# Netlify redirects
-
-https://dropdown-menu-chessiah.netlify.app/* https://dropdown-menu.chessiah.com/:splat 301!
-http://dropdown-menu-chessiah.netlify.app/* https://dropdown-menu.chessiah.com/:splat 301!
-
-http://dropdown-menu.chessiah.com/* https://dropdown-menu.chessiah.com/:splat 301!
